@@ -1,0 +1,26 @@
+package SinglyLinked;
+
+public class LLDemo {
+
+	public static void main(String[] args) {
+		System.out.println("Enter data for first Linked list: ");
+		LinkedList ll = new LinkedList();
+		ll.createLinkList(5);
+//		ll.display();
+//		ll.sortedLL(ll.head);
+//		ll.display();
+//		ll.splitLL(ll.head);
+//		System.out.println("Enter data for second linked list: ");
+		
+//		LinkedList ll2 = new LinkedList();
+//		ll2.createLinkList(3);
+//		ll.mergeLL(ll2);
+//		ll.display();
+//		ll.reverseLL(ll.head);
+//		System.out.println("Reversed LL: ");
+		ll.display();
+		ll.evenOddsort(ll.head);
+		
+	}
+
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="IntStack.cStack"/>
+    <fullyQualifiedTypeName name="CharStack.cStack"/>
+    <fullyQualifiedTypeName name="BookStack.cStack"/>
+    <fullyQualifiedTypeName name="_05_Sorting.BasicArray"/>
+    <fullyQualifiedTypeName name="_05_Sorting.BubbleSort"/>
+    <fullyQualifiedTypeName name="SimpleQueue.cQueue"/>
+    <fullyQualifiedTypeName name="SimpleQueue.Customer"/>
+    <fullyQualifiedTypeName name="CircularQueue.cQueue"/>
+    <fullyQualifiedTypeName name="SimpleLinkedList.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.LinkageError"/>
+    <fullyQualifiedTypeName name="LinkedList.LinkedList"/>
+    <fullyQualifiedTypeName name="UserDefineLL.LinkedList"/>
+    <fullyQualifiedTypeName name="_10_DoublyLinkedlisAss1.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.Runtime"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="_11_DymanicStack.Node"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="_11_DymanicStack.cStack"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="_11_DymanicStack.StackEmptyException"/>
+</qualifiedTypeNameHistroy>

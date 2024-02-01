@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Person/src/Office.persons&apos;&#x0D;&#x0A;- Original project: &apos;PersonDoctor&apos;&#x0D;&#x0A;- Destination element: &apos;Person/src/Office.persons&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     service.Person.java&#x0D;&#x0A;     service.Date.java" description="Copy compilation units" destination="=Person/src&lt;Office.persons" element1="/src&lt;service{Person.java" element2="/src&lt;service{Date.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1696842130817" units="2" version="1.0"/>
+</session>

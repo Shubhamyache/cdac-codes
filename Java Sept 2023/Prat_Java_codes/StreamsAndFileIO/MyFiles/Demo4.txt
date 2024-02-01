@@ -1,0 +1,4 @@
+hello
+USES FILE STREAM
+this is line with max length
+welcome

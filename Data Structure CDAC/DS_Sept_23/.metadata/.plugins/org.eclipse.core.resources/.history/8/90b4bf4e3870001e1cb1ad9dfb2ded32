@@ -1,0 +1,34 @@
+package SimpleLinkedList;
+
+public class LinkedList {
+	Node head;
+	public LinkedList()
+	{
+		head=null;
+	}
+	public void createLinkedList(int size)
+	{
+		int no=5;
+		for(int i=1;i<=size;i++)
+		{
+			addNode(no);
+			no=no+5;
+		}
+	}
+	public void addNode(int data)
+	{
+		Node record=new Node(data);
+	    if(head==null)
+	    	head=record;
+	    else
+	    {
+	    	
+	    }
+	    
+	}
+	public void display()
+	{
+		
+	}
+
+}

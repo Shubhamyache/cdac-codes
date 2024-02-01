@@ -1,0 +1,61 @@
+package LinkedList;
+
+import java.util.Scanner;
+
+public class LinkedList {
+	Node head;
+	public LinkedList()
+	{
+		head=null;
+	}
+	public void addNode(int data)
+	{
+		Node newnode=new Node(data);
+		if(head==null)
+			head=newnode;
+		else
+		{
+			Node move=head;
+			while(move.next!=null)
+				move=move.next;
+			move.next=newnode;
+		}
+	}
+	public void display()
+	{
+		Node move=head;
+		System.out.println();
+		while(move!=null)
+		{
+			System.out.print(move.data+" ");
+		}
+		System.out.println();
+		
+	}
+	public void createLinkesList(int no)
+	{
+		Scanner sc=new Scanner(System.in);
+		for(int i=1;i<=no;i++)
+		{
+			System.out.println(" Enter Value ");
+			int data=sc.nextInt();
+			addNode(data);
+			
+		}
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

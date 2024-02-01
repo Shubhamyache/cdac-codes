@@ -1,0 +1,43 @@
+package SimpleLinkedList;
+
+public class LinkedList {
+	Node head;
+	public LinkedList()
+	{
+		head=null;
+	}
+	public void createLinkedList(int size)
+	{
+		int no=5;
+		for(int i=1;i<=size;i++)
+		{
+			addNode(no);
+			no=no+5;
+		}
+	}
+	public void addNode(int data)
+	{
+		Node record=new Node(data);
+	    if(head==null)
+	    	head=record;
+	    else
+	    {
+	    	Node move;
+	    	for(move=head;move.link!=null;move=move.link);
+	    	move.link=record;
+	    }
+	   }
+	public void display()
+	{
+      System.out.println(" ------------ Linked List -----------\n");
+      Node move;
+      for(move=head;move.link!=null;move=move.link)
+      {
+    	  System.out.print(move.data);
+      }
+      if(move.link==null)
+    	  System.out.print(move.data+"  ");
+      	  
+	}
+
+}

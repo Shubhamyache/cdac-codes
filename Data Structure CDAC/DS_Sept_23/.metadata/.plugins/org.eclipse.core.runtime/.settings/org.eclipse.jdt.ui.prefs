@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="IntStack.cStack"><rhs name\="IntStack.cStack"/></lhs><lhs name\="CharStack.cStack"><rhs name\="CharStack.cStack"/></lhs><lhs name\="SimpleQueue.Customer"><rhs name\="SimpleQueue.Customer"/></lhs><lhs name\="SimpleQueue.cQueue"><rhs name\="SimpleQueue.cQueue"/></lhs><lhs name\="SimpleLinkedList.LinkedList"><rhs name\="SimpleLinkedList.LinkedList"/></lhs><lhs name\="LinkedList.LinkedList"><rhs name\="LinkedList.LinkedList"/></lhs><lhs name\="UserDefineLL.LinkedList"><rhs name\="UserDefineLL.LinkedList"/></lhs><lhs name\="_10_DoublyLinkedlisAss1.LinkedList"><rhs name\="_10_DoublyLinkedlisAss1.LinkedList"/></lhs><lhs name\="_11_DymanicStack.Node"><rhs name\="_11_DymanicStack.Node"/></lhs><lhs name\="_11_DymanicStack.cStack"><rhs name\="_11_DymanicStack.cStack"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

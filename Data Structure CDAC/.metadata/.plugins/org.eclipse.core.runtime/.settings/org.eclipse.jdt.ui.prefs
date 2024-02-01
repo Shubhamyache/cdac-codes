@@ -1,0 +1,22 @@
+Refactoring.savealleditors=true
+content_assist_autoactivation=true
+content_assist_autoactivation_delay=0
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_autoactivation_triggers_javadoc=@\#abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_disable_completion_trigger_chars=true
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="_03_Stack.Cstack"><rhs name\="_03_Stack.Cstack"/></lhs><lhs name\="_03_Stack.MyStack"><rhs name\="_03_Stack.MyStack"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="CustomerQueue.Customer"><rhs name\="CustomerQueue.Customer"/></lhs><lhs name\="CustomerQueue.CustQueue"><rhs name\="CustomerQueue.CustQueue"/></lhs><lhs name\="CircularQueue.CircularQ"><rhs name\="CircularQueue.CircularQ"/></lhs><lhs name\="SinglyLinked.LinkedList"><rhs name\="SinglyLinked.LinkedList"/></lhs><lhs name\="SinglyLinked.SNode"><rhs name\="SinglyLinked.SNode"/></lhs><lhs name\="StringLL.StringLL"><rhs name\="StringLL.StringLL"/></lhs><lhs name\="StringLL.SNode"><rhs name\="StringLL.SNode"/></lhs><lhs name\="DoublyLinkedList.Node"><rhs name\="DoublyLinkedList.Node"/></lhs><lhs name\="DoublyLinkedList.DoublyLL"><rhs name\="DoublyLinkedList.DoublyLL"/></lhs><lhs name\="CircularLinkList.Node"><rhs name\="CircularLinkList.Node"/></lhs><lhs name\="CircularLinkList.CircularLL"><rhs name\="CircularLinkList.CircularLL"/></lhs><lhs name\="Dyanamic_LinkList.Node"><rhs name\="Dyanamic_LinkList.Node"/></lhs><lhs name\="Dyanamic_LinkList.DynamicLL"><rhs name\="Dyanamic_LinkList.DynamicLL"/></lhs><lhs name\="DynamicQueue.Node"><rhs name\="DynamicQueue.Node"/></lhs><lhs name\="DynamicQueue.DynamicQ"><rhs name\="DynamicQueue.DynamicQ"/></lhs><lhs name\="PriorityQueue.PriorityQ"><rhs name\="PriorityQueue.PriorityQ"/></lhs><lhs name\="PriorityQueue.Element"><rhs name\="PriorityQueue.Element"/></lhs><lhs name\="DoubleEndedQueue.DoubleEndQ"><rhs name\="DoubleEndedQueue.DoubleEndQ"/></lhs><lhs name\="DoubleEndedQueue.Deque"><rhs name\="DoubleEndedQueue.Deque"/></lhs><lhs name\="BinaryTree.Node"><rhs name\="BinaryTree.Node"/></lhs><lhs name\="BinaryTree.BinaryTree"><rhs name\="BinaryTree.BinaryTree"/></lhs><lhs name\="BinarySearchTree.BinarySearch"><rhs name\="BinarySearchTree.BinarySearch"/></lhs><lhs name\="BinarySearchTree.Node"><rhs name\="BinarySearchTree.Node"/></lhs><lhs name\="BinarySearchTree.QueueBST"><rhs name\="BinarySearchTree.QueueBST"/></lhs><lhs name\="SimpleGraph.Graph"><rhs name\="SimpleGraph.Graph"/></lhs></history>
+content_assist_number_of_computers=13
+content_assist_prefix_completion=false
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.overrideannotation=true
+sourceHoverBackgroundColor=47,47,47
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

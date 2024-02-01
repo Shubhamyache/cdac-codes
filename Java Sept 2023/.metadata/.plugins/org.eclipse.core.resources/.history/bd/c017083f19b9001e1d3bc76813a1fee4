@@ -1,0 +1,49 @@
+package Collection;
+
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class Collectionpractice {
+
+	public static void main(String[] args) throws InterruptedException {
+
+		ArrayList<Integer> arrayList = new ArrayList<>();
+		arrayList.add(10);
+		arrayList.add(20);
+		arrayList.add(30);
+		//System.out.println(arrayList);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		
+		HashMap<String, Integer> stud = new HashMap<>();
+		
+		
+		
+		
+		for(int i=0;i<3;i++) {
+			
+			System.out.println("Enter Name: ");
+			String nm = sc.nextLine();
+			int count = 1;
+			if(stud.containsKey(nm)){
+				count++;
+			}
+			stud.put(nm, count);
+				
+		}
+		System.out.println(stud);
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package _10_DoublyLinkedlisAss1;
+
+import java.util.Scanner;
+
+public class Demo {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int terms;
+		LinkedList list1=new LinkedList();
+		System.out.println(" Enter number Of Terms ");
+		terms=sc.nextInt();
+		list1.createLinkedList(terms);
+		list1.display();
+	}
+
+}
